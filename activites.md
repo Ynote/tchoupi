@@ -15,4 +15,4 @@ A titre indicatif, les activités commerciales possibles sont (liste non-exhaust
 - Vente d’objets ou de denrées alimentaires, avec **impact humain ou environnemental positif**
 
 
-YAY
+YAYYAYAYA
