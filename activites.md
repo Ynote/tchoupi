@@ -1,5 +1,5 @@
 ---
-title: Activités
+title: "Activités"
 ---
 L’association cherche à œuvrer en collaboration avec des organismes publics, des organisations privées et des individus.
 
