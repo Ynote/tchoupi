@@ -1,6 +1,6 @@
 ---
 title: "Accueil"
-order: 3
+order: 2
 in_menu: true
 ---
 # Tchoupi

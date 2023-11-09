@@ -1,6 +1,6 @@
 ---
 title: "Je suis une nouvelle page"
-order: 4
+order: 1
 in_menu: true
 ---
 Jouqwp wkvjqweg 
