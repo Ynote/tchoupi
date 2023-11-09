@@ -5,4 +5,6 @@ in_menu: true
 ---
 # Tchoupi
 
-C'est moi tchoupi. Encore tchoupi. Coucou <3 
+
+
+![Texte décrivant l'image](/images/Screenshot 2023-11-08 at 15-43-33 Scribouilli.png) 
